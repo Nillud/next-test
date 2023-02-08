@@ -1,6 +1,5 @@
 import Link from "next/link";
-import { useEffect, useState } from "react";
-import A from "../components/A";
+import MainContainer from "../components/MainContainer";
 
 const Users = ({users}) => {
 
